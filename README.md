@@ -6,7 +6,7 @@ Three complementary skills covering the full research lifecycle: topic selection
 
 | Skill | 覆盖阶段 | 来源 |
 |---|---|---|
-| `research-project-playbook/` | 选题防御、阶段零微基准、实验纪律、发现日志、数字审计、导师沟通、投稿阶梯 | 蒸馏自一次完整科研周期（8×RTX4090 LLM serving 测量研究，70+ 配置，F1-F18 发现日志，双语 MLSys 投稿论文） |
+| `research-project-playbook/` | 选题防御、阶段零微基准、实验纪律、发现日志、数字审计、导师沟通、投稿阶梯 | 蒸馏自一次完整科研周期（8×RTX4090 LLM serving 测量研究，70+ 配置） |
 | `paper-writing/` | 句子级写作工艺、编辑原则、压缩模式、章节修辞 | [SNL-UCSB/paper-writing-skill](https://github.com/SNL-UCSB/paper-writing-skill)（保留原作者 LICENSE） |
 | `research-paper-writing/` | 章节结构、段落流、审稿人视角、对抗性自查 | [Master-cai/research_paper_writing](https://github.com/Master-cai/research_paper_writing) |
 
