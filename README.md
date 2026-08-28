@@ -1,4 +1,4 @@
-# KKJ Research
+# Keresearch
 
 三个互补的科研 skill，覆盖科研全生命周期：选题 → 实验 → 写作 → 投稿。
 
