@@ -27,11 +27,11 @@ paper-writing               ← 句子级工艺：语气、压缩、风格门禁
 克隆到你的 skills 目录（ZCode / Claude Code 通用）：
 
 ```bash
-git clone https://github.com/yunyancuo/research-skills.git
+git clone https://github.com/yunyancuo/keresearch.git
 # ZCode
-cp -r research-skills/*/ ~/.zcode/cli/skills/
+cp -r keresearch/*/ ~/.zcode/cli/skills/
 # Claude Code
-cp -r research-skills/*/ ~/.claude/skills/
+cp -r keresearch/*/ ~/.claude/skills/
 ```
 
 ## Playbook 速览（源项目验证过的硬规则）
