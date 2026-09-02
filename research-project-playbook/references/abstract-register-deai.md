@@ -21,6 +21,14 @@ in a formal statement. The formal version's structure — implicit premise + mis
 per-rule empirical test — is what academic statements need; do not replace it with process
 colloquialisms.
 
+## 1.5 First mention of a technical term carries its plain-language gloss
+
+Non-specialist readers (and advisors from adjacent fields) meet every term for the first time.
+At first mention, append a five-second gloss in the same sentence: quantization = "store the
+weights with fewer bits, smaller model, faster inference, slight accuracy loss"; tensor-parallel
+degree = "slice the model across cards"; replicas = "run whole copies side by side". The gloss
+lives in the running text, not a footnote. Later mentions use the term bare.
+
 ## 2. AI-tell pattern catalog (structure-level)
 
 Each pattern below survived contact with real review. Fix by rebuilding the sentence shell;
