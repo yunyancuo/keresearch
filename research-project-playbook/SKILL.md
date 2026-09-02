@@ -51,7 +51,7 @@ The operator test: whatever the cluster, the three dominant quantities (collecti
 
 **Structure.** Standard six sections. Introduction: four paragraphs (task and stakes / traditional + recent failures / closest attempts and their blind spots / this paper), contributions list is the *only* list in the intro. Details belong in Method, not Introduction.
 
-**Style transfer.** Pick one closest-genre paper as the prose model and imitate its rhetorical structure, not its content. Combined with de-AI gates: zero em-dashes, zero translationese, zero colloquialisms, varied sentence length, concrete numbers over adjectives.
+**Style transfer.** Pick one closest-genre paper as the prose model and imitate its rhetorical structure, not its content. Combined with de-AI gates: zero em-dashes, zero translationese, zero colloquialisms, varied sentence length, concrete numbers over adjectives. See references/abstract-register-deai.md for the full AI-tell pattern catalog, the three-register discipline (paper prose / academic oral / casual story), the abstract density budget, and the wording substitution table.
 
 **Symbol audit (run before every render).** Every symbol defined at first use. No letter pulls double duty (a real collision: `c` as config vector and as per-sequence KV cost; `d` as head dim and as drafter memory). Read only the equations and their immediate prose in one pass; this pass takes ten minutes and reviewers do notice.
 
