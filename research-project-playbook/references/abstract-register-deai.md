@@ -21,13 +21,17 @@ in a formal statement. The formal version's structure — implicit premise + mis
 per-rule empirical test — is what academic statements need; do not replace it with process
 colloquialisms.
 
-## 1.5 First mention of a technical term carries its plain-language gloss
+## 1.5 First mention of a technical term carries its precise definition
 
 Non-specialist readers (and advisors from adjacent fields) meet every term for the first time.
-At first mention, append a five-second gloss in the same sentence: quantization = "store the
-weights with fewer bits, smaller model, faster inference, slight accuracy loss"; tensor-parallel
-degree = "slice the model across cards"; replicas = "run whole copies side by side". The gloss
-lives in the running text, not a footnote. Later mentions use the term bare.
+At first mention, append a precise definition in the same formal register: weight precision =
+"storing the weights with fewer bits, which speeds up inference at a slight accuracy cost";
+tensor-parallel degree = "splitting the model across GPUs that inference jointly"; replicas =
+"deploying several complete model instances, each serving its own requests".
+
+The gloss is a **definition, not a metaphor**. Do not reach for cutesy figures ("the three knobs
+on this machine", "think of it as gears"); in formal prose a metaphor reads as childish and_destroys the register you were protecting. Term first, precise definition second, formal verbs
+throughout. Later mentions use the term bare.
 
 ## 2. AI-tell pattern catalog (structure-level)
 
